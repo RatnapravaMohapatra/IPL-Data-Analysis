@@ -34,7 +34,7 @@ The **IPL Data Analysis** project focuses on analyzing the performance and salar
 The analysis aims to provide insights into how player salaries correlate with their performance metrics over time, highlighting significant trends or changes in player performance.
 
 ## Getting Started
-To set up the project and run the analysis, follow these steps:
+To set up the project and run the analysis
 
- **Clone the Repository**:
+ **Clone the Repository**:https://github.com/RatnapravaMohapatra/IPL-Data-Analysis
 
